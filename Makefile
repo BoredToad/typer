@@ -1,3 +1,3 @@
 
 src/main:
-	gcc src/main.c -l ncurses
+	gcc -o typer src/main.c -l ncurses
